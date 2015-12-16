@@ -1,0 +1,10 @@
+.tic-tac-toe-box {
+  height: 100px;
+  width: 100px;
+  background-color: #e697e2;
+  border: 1px solid black;
+}
+
+.row {
+  margin: 0px !important;
+}
